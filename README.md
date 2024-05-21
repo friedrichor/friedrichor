@@ -9,4 +9,4 @@
 You can see my current scholarship at [my academic page](https://friedrichor.github.io/).
 
 ## 📈 Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=friedrichor&bg_color=30,e96443,904e95&include_all_commits=true&title_color=fff&text_color=fff)
+![friedrichor's GitHub stats](https://github-readme-stats.vercel.app/api?username=friedrichor&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
