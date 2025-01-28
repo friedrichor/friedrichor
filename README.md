@@ -2,7 +2,7 @@
 
 ## 🔭 I currently specialize in
 
-**AIGC**, including **Large Multimodal Models** and **Multimodal Dialogue Generation** , and related projects.
+**Multimodal Understanding and Generation**, **Large Multimodal Model**, and related projects.
 
 ## 📃 Academic Page
 
