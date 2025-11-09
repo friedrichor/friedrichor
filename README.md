@@ -2,7 +2,7 @@
 
 ## 🔭 I currently specialize in
 
-**Multimodal Understanding and Generation**, **Large Multimodal Model**, and related projects.
+**Multimodal Understanding and Generation**, **Multimodal LLM**, **Vibe Coding** and related projects.
 
 ## 📃 Academic Page
 
